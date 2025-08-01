@@ -1,11 +1,24 @@
-# Laravel CRUD REST API
+<div align="center">
+  <h1>🚀 Laravel CRUD REST API</h1>
+  <p>Complete REST API with Full CRUD Operations for Product Management</p>
+  
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+  
+  <img src="https://github.com/laravel/art/blob/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel">
+</div>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+---
 
-![Animated Introduction](https://user-images.githubusercontent.com/20955511/199068351-f86c1f32-541f-404e-a9ce-486b5d1b0225.gif)
+## 📖 Tentang Project Ini
 
-Welcome to the **Laravel CRUD REST API**. This project is a simple implementation of a RESTful API using Laravel with CRUD (Create, Read, Update, Delete) functionality.
+**Laravel CRUD REST API** adalah implementasi REST API lengkap yang dibangun menggunakan framework Laravel. Project ini menyediakan operasi CRUD (Create, Read, Update, Delete) untuk manajemen produk dengan fitur pencarian, filtering, sorting, dan pagination.
+
+### 🎯 Apa yang dimaksud dengan REST API?
+
+REST API adalah arsitektur web service yang memungkinkan aplikasi untuk berkomunikasi satu sama lain melalui HTTP. API ini tidak memiliki tampilan website tradisional, melainkan mengembalikan data dalam format JSON yang dapat digunakan oleh aplikasi frontend (mobile app, web app, dll).
 
 ## 🚀 Features
 
